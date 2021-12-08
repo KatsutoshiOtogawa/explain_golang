@@ -3,5 +3,5 @@
 mdからpowerpointの作成。
 
 ```shell
-pandoc explain.md -o explain.pptx
+pandoc explain.md -o out/explain.pptx
 ```
